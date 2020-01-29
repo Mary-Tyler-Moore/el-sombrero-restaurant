@@ -9,6 +9,7 @@
 
 > This is currenty a WIP but will be a really fun project for a local restaurant.
 
+<br />
 
 ## Author's Environmental Impact Statement:
 
